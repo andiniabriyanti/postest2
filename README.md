@@ -19,3 +19,8 @@ Loop `while` terus berjalan sampai user memilih untuk keluar.
 ![Screenshot 2023-10-10 105535](https://github.com/andiniabriyanti/postest2/assets/144974557/338f4cca-ac53-42af-b24e-33823f5ebf24)
 ![Screenshot 2023-10-10 105551](https://github.com/andiniabriyanti/postest2/assets/144974557/ed1a8dac-f7c7-4134-8f1d-4c383818a5c5)
 ![Screenshot 2023-10-10 105416](https://github.com/andiniabriyanti/postest2/assets/144974557/93eabc0b-6b76-46ea-b896-8080debfb732)
+
+flowchart sebagai berikut
+![image](https://github.com/andiniabriyanti/postest2/assets/144974557/a9942b87-bd5c-4b53-af6a-c34a6a4c83ee)
+![image](https://github.com/andiniabriyanti/postest2/assets/144974557/1b4a4444-6d1b-413c-9bb1-c3c34dde1909)
+
